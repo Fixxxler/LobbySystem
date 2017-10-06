@@ -1,0 +1,8 @@
+name: LobbySystem
+version: 1.0
+author: PluginDEV
+main: de.plugindev.lobbysystem.LobbySystem
+commands:
+  set:
+  spawn:
+  commandspy:
